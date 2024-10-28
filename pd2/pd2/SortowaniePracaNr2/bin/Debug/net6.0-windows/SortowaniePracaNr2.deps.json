@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SortowaniePracaNr2/1.0.0": {
+        "runtime": {
+          "SortowaniePracaNr2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortowaniePracaNr2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

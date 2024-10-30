@@ -1,0 +1,10 @@
+C:\Users\kowal\source\repos\pd4\obj\Debug\pd4.csproj.AssemblyReference.cache
+C:\Users\kowal\source\repos\pd4\obj\Debug\pd4.Properties.Resources.resources
+C:\Users\kowal\source\repos\pd4\obj\Debug\pd4.csproj.GenerateResource.cache
+C:\Users\kowal\source\repos\pd4\obj\Debug\pd4.csproj.CoreCompileInputs.cache
+C:\Users\kowal\source\repos\pd4\bin\Debug\pd4.exe.config
+C:\Users\kowal\source\repos\pd4\bin\Debug\pd4.exe
+C:\Users\kowal\source\repos\pd4\bin\Debug\pd4.pdb
+C:\Users\kowal\source\repos\pd4\obj\Debug\pd4.exe
+C:\Users\kowal\source\repos\pd4\obj\Debug\pd4.pdb
+C:\Users\kowal\source\repos\pd4\obj\Debug\pd4.Form1.resources
